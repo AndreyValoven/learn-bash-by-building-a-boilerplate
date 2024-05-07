@@ -213,3 +213,4 @@ mkdri images
 mkdir images
 cd images/
 touch background.jpg
+cd ../../..

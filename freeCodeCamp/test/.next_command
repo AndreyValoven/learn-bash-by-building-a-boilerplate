@@ -103,3 +103,4 @@ exit
 pwd
 pwd
 ls --color=auto
+cd freeCodeCamp

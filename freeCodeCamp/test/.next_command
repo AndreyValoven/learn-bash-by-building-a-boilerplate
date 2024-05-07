@@ -211,3 +211,4 @@ mkdir assets
 cd assets/
 mkdri images
 mkdir images
+cd images/

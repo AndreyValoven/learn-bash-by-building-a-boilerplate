@@ -125,3 +125,6 @@ more LICENSE-MIT
 clear
 ls --color=auto -l
 cd src
+ls --color=auto -l
+ls --color=auto
+pwd

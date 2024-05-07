@@ -219,3 +219,4 @@ ls --color=auto -a
 mv header.png ../header.png
 ls --color=auto -a
 cd ..
+ls --color=auto -a

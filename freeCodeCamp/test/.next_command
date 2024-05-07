@@ -239,3 +239,4 @@ mv client/assets/icons/CodeAlly.svg ./CodeAlly.svg
 mv CodeAlly.svg client/assets/icons/CodeAlly.svg
 find
 mv CodeRoad.svg ./client/assets/icons/CodeRoad.svg
+mv freeCodeCamp.svg ./client/assets/icons/freeCodeCamp.svg

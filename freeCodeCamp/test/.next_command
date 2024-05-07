@@ -129,3 +129,5 @@ ls --color=auto -l
 ls --color=auto
 pwd
 ls --color=auto
+__vsc_prompt_cmd_original
+more index.js

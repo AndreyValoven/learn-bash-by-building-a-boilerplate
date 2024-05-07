@@ -216,3 +216,4 @@ touch background.jpg
 cd ../../..
 cd images/
 ls --color=auto -a
+mv header.png ../header.png

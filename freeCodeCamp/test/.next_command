@@ -161,3 +161,4 @@ touch menlo.font
 ls --color=auto -a
 touch CodeAlly.svg
 touch CodeRoad.svg
+touch freeCodeCamp.svg

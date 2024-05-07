@@ -209,3 +209,5 @@ find
 cd client/
 mkdir assets
 cd assets/
+mkdri images
+mkdir images

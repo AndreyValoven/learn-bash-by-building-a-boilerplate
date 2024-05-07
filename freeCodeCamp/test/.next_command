@@ -194,3 +194,4 @@ mv lato.ttf fonts/lato.ttf
 mv menlo.otf fonts/menlo.otf
 find
 mkdir client
+mkdir client/src

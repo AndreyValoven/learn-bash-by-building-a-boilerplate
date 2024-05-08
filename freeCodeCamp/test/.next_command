@@ -300,3 +300,5 @@ ls --color=auto
 cp --help
 cp -r website-boilerplate toms-websiete
 cp -r website-boilerplate toms-website
+rm -r toms-websiete/
+ls --color=auto

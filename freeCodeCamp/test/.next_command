@@ -298,3 +298,5 @@ ls --color=auto
 mv website website-boilerplate
 ls --color=auto
 cp --help
+cp -r website-boilerplate toms-websiete
+cp -r website-boilerplate toms-website

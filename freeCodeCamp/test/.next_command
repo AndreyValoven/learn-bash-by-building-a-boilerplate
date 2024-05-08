@@ -302,3 +302,6 @@ cp -r website-boilerplate toms-websiete
 cp -r website-boilerplate toms-website
 rm -r toms-websiete/
 ls --color=auto
+find -name toms-website/
+find -name toms-website
+find toms-website/
